@@ -1,0 +1,9 @@
+{
+  "username": "Asif Ansari",
+  "email": "asifjamal582005@gmail.com",
+  "password": "asif@123",
+  "number": "21",
+  "dob": "2005-08-05",
+  "gender": "male",
+  "language": "cpp"
+}
